@@ -2,7 +2,10 @@
 
 IOCs - 
 
-# Sophos Central Live Discover
+# Sophos Central Live Discover - DataLake
 
-Queries for Sophos Central Live Discover
-1. Identify hosts where the urls in IOCs were clicked by checking process execution 
+Datalake query for Sophos Central Live Discover
+Identify hosts where the urls in IOCs were clicked by checking process execution - https://github.com/sophos-cybersecurity/BazaarLoader-ThreatHunt/blob/master/find-clicked-users.sql
+
+If the query times out with multiple domains, replace "LOWER('%googleapis.com%')" and run the individual queries for each domain/url
+

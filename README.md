@@ -2,7 +2,7 @@
 
 IOCs - https://github.com/sophos-cybersecurity/BazaarLoader-ThreatHunt/blob/master/IOC.csv 
 
-# Sophos Central Live Discover - DataLake
+# Sophos Central Live Discover Query
 
 Datalake query for Sophos Central Live Discover
 * Identify hosts where the urls in IOCs were clicked by checking process execution - https://github.com/sophos-cybersecurity/BazaarLoader-ThreatHunt/blob/master/find-clicked-users.sql

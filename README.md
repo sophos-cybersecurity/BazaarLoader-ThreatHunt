@@ -2,6 +2,10 @@
 
 IOCs - https://github.com/sophos-cybersecurity/BazaarLoader-ThreatHunt/blob/master/IOC.csv 
 
+# Technical Analysis by Sophos Labs - https://twitter.com/SophosLabs/status/1456391375998619650
+
+# Naked Security article - https://nakedsecurity.sophos.com/2021/11/05/customer-complaint-email-scam-preys-on-your-fear-of-getting-into-trouble-at-work/
+
 # Sophos Central Live Discover Query
 
 Datalake query for Sophos Central Live Discover

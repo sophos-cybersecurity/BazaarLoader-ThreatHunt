@@ -1,6 +1,6 @@
 # Threat Hunt for Bazaar backdoor phishing campaign
 
-IOCs - 
+IOCs - https://github.com/sophos-cybersecurity/BazaarLoader-ThreatHunt/blob/master/IOC.csv 
 
 # Sophos Central Live Discover - DataLake
 
